@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-from hashlib import new
 import ffmpeg, os
 from mutagen.flac import FLAC
 
