@@ -2,5 +2,7 @@ test/*
 music/*
 !music/.gitkeep
 venv/*
+*.lrc
+*.jpg
 *.mp3
 *.flac
